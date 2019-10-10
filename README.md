@@ -1,2 +1,2 @@
 # pininos
-Es un repositirio de prueba
+Es un repositorio de prueba. Para hacer los pininos!!
